@@ -155,7 +155,7 @@ This project is built for the Chromium Hackathon.
 - [Frontend Documentation](price-alert-extension/README.md)
 - [Backend Documentation](chat-server/README.md)
 - [Chainlink Documentation](https://docs.chain.link/)
-- [Google Gemini API](https://ai.google.dev/)
+- [Google Gemini API](https://ai.google.dev/gemini-api/docs)
 
 ## 🙏 Acknowledgments
 
